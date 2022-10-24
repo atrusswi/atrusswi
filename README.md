@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Anaya TW
 - 👀 I’m interested in economics and geography
 - 💻 I mostly use Stata and ArcGIS, but I also have experience in R, SQL, MATLAB and Tableau
+- 🔨 My repositories will be updated more over the last week of October.
 - 📫 Reach me at atrusswi@umd.edu
 <!---
 atrusswi/atrusswi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
